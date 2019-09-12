@@ -1,0 +1,4 @@
+Locus,Phenotype,Genotypes
+HC,Homozygous_Normal,"-/-"
+HC,Homozygous_Mutant,"+/+"
+HC,Heterozygous,"+/-"

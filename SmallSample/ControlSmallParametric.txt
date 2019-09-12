@@ -1,0 +1,16 @@
+#
+# Input and Output files.
+#
+locus_file = LocusSmall.txt
+pedigree_file = PedSmall.csv
+phenotype_file = PhenoSmall.txt
+output_file = HeterozygousRisk.txt
+#
+#  Analysis parameters for Genetic Counseling parametric option.
+#
+glm_mean = 0.999999
+glm_response = BinomialDist
+glm_link = IdentityLink
+glm_trait = Trait
+glm_trials = 1
+

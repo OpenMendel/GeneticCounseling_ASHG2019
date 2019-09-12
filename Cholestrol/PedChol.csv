@@ -1,0 +1,219 @@
+Pedigree,Person,Father,Mother,Sex,HC,Age ,lnChol,Chol,High_Chol
+  TOP ,  III11   ,  II2     ,  II1     ,2,,22,6.39,595,1
+  TOP ,  II16    ,  I2      ,  I1      ,1,,38,6.17,479,1
+  TOP ,  III56   ,  II19    ,  II18    ,2,,4,6.12,454,1
+  TOP ,  II18    ,  I2      ,  I1      ,2,,36,6.1,448,1
+  TOP ,  III13   ,  II2     ,  II1     ,2,,21,6.09,440,1
+  TOP ,  III50   ,  II16    ,  II17    ,2,,10,6.07,433,1
+  TOP ,  III7    ,  II2     ,  II1     ,1,,26,6.05,425,1
+  TOP ,  III1    ,  II2     ,  II1     ,1,,31,6.05,422,1
+  TOP ,  II29    ,  I2      ,  I1      ,1,,27,6.03,416,1
+  TOP ,  III58   ,  II20    ,  II21    ,1,,6,6.02,413,1
+  TOP ,  III55   ,  II19    ,  II18    ,1,,10,6.02,412,1
+  TOP ,  III15   ,  II2     ,  II1     ,1,,20,5.97,391,1
+  TOP ,  III41   ,  II15    ,  II14    ,2,,15,5.94,381,1
+  TOP ,  II20    ,  I2      ,  I1      ,1,,35,5.94,379,1
+  TOP ,  III54   ,  II19    ,  II18    ,2,,13,5.93,377,1
+  TOP ,  II22    ,  I2      ,  I1      ,1,,32,5.93,376,1
+  TOP ,  III26   ,  II7     ,  II8     ,1,,20,5.93,376,1
+  TOP ,  III61   ,  II22    ,  II23    ,2,,6,5.92,374,1
+  TOP ,  III43   ,  II15    ,  II14    ,2,,10,5.91,369,1
+  TOP ,  IV10    ,  III12   ,  III11   ,2,,7,5.46,235,1
+  TOP ,  II12    ,  I2      ,  I1      ,1,,41,5.9,365,1
+  TOP ,  III17   ,  II2     ,  II1     ,2,,15,5.9,365,1
+  TOP ,  III46   ,  II16    ,  II17    ,2,,16,5.9,365,1
+  TOP ,  IV1     ,  III1    ,  III2    ,1,,12,5.83,341,1
+  TOP ,  III38   ,  II12    ,  II13    ,2,,4,5.82,337,1
+  TOP ,  III9    ,  II2     ,  II1     ,2,,24,5.8,331,1
+  TOP ,  III39   ,  II15    ,  II14    ,1,,20,5.78,324,1
+  TOP ,  III53   ,  II19    ,  II18    ,1,,16,5.77,320,1
+  TOP ,  III27   ,  II7     ,  II8     ,1,,17,5.76,317,1
+  TOP ,  II19    ,,,1,,35,5.75,313,1
+  TOP ,  III49   ,  II16    ,  II17    ,1,,11,5.73,309,1
+  TOP ,  II14    ,  I2      ,  I1      ,2,,39,5.7,299,1
+  TOP ,  II2     ,,,1,,51,5.69,296,1
+  TOP ,  III36   ,  II12    ,  II13    ,1,,16,5.69,295,1
+  TOP ,  II6     ,,,2,,41,5.66,286,1
+  TOP ,  III16   ,  II2     ,  II1     ,1,,16,5.64,281,1
+  TOP ,  III40   ,  II15    ,  II14    ,2,,19,5.63,280,1
+  TOP ,  III4    ,,,2,,29,5.6,271,1
+  TOP ,  III59   ,  II20    ,  II21    ,2,,5,5.58,265,1
+  TOP ,  III35   ,  II12    ,  II13    ,2,,17,5.55,257,1
+  TOP ,  II4     ,,,2,,36,5.55,256,1
+  TOP ,  III18   ,  II3     ,  II4     ,2,,12,5.53,252,1
+  TOP ,  III19   ,  II3     ,  II4     ,2,,11,5.52,250,1
+  TOP ,  IV11    ,  III14   ,  III13   ,1,Heterozygous,1,5.51,248,1
+  TOP ,  II24    ,  I2      ,  I1      ,1,,30,5.51,246,1
+  TOP ,  III68   ,  II32    ,  II33    ,2,,1,5.51,246,1
+  TOP ,  III2    ,,,2,,30,5.5,245,1
+  TOP ,  II28    ,,,1,,48,5.5,244,1
+  TOP ,  III8    ,  II2     ,  II1     ,1,,25,5.49,242,1
+  TOP ,  III32   ,  II10    ,  II9     ,1,,8,5.48,241,1
+  TOP ,  II15    ,,,1,,47,5.46,236,1
+  TOP ,  IV4     ,  III3    ,  III4    ,2,,7,5.46,235,1
+  TOP ,  III20   ,  II3     ,  II4     ,1,,10,5.46,234,1
+  TOP ,  II17    ,,,2,,36,5.45,232,1
+  TOP ,  III42   ,  II15    ,  II14    ,1,,12,5.44,231,1
+  TOP ,  III3    ,  II2     ,  II1     ,1,,30,5.4,221,0
+  TOP ,  III31   ,  II10    ,  II9     ,2,,12,5.4,221,0
+  TOP ,  III5    ,  II2     ,  II1     ,1,,29,5.39,220,0
+  TOP ,  III63   ,  II24    ,  II25    ,2,,4,5.39,220,0
+  TOP ,  III62   ,  II24    ,  II25    ,2,,6,5.39,219,0
+  TOP ,  II25    ,,,2,,26,5.38,216,0
+  TOP ,  III37   ,  II12    ,  II13    ,1,,15,5.37,214,0
+  TOP ,  III65   ,  II26    ,  II27    ,2,,5,5.37,214,0
+  TOP ,  IV2     ,  III1    ,  III2    ,2,,9,5.37,214,0
+  TOP ,  II21    ,,,2,,28,5.35,210,0
+  TOP ,  II31    ,  I2      ,  I1      ,1,,24,5.35,210,0
+  TOP ,  III57   ,  II20    ,  II21    ,1,,8,5.34,208,0
+  TOP ,  III23   ,  II5     ,  II6     ,2,,25,5.33,206,0
+  TOP ,  IV3     ,  III1    ,  III2    ,1,,5,5.32,205,0
+  TOP ,  I2      ,,,1,,87,5.31,203,0
+  TOP ,  II3     ,  I2      ,  I1      ,1,,47,5.31,203,0
+  TOP ,  III22   ,  II3     ,  II4     ,1,,6,5.31,202,0
+  TOP ,  III28   ,  II10    ,  II9     ,2,,22,5.3,200,0
+  TOP ,  III33   ,  II10    ,  II9     ,2,,6,5.3,200,0
+  TOP ,  II13    ,,,2,,35,5.29,198,0
+  TOP ,  II32    ,  I2      ,  I1      ,1,,22,5.28,197,0
+  TOP ,  III64   ,  II24    ,  II25    ,1,,2,5.27,194,0
+  TOP ,  II27    ,  I2      ,  I1      ,2,,28,5.26,193,0
+  TOP ,  IV7     ,  III5    ,  III6    ,1,,8,5.26,192,0
+  TOP ,  III52   ,  II16    ,  II17    ,1,,1,5.25,191,0
+  TOP ,  IV8     ,  III5    ,  III6    ,2,,7,5.25,191,0
+  TOP ,  III12   ,,,1,,23,5.24,189,0
+  TOP ,  III6    ,,,2,,26,5.24,189,0
+  TOP ,  II30    ,  I2      ,  I1      ,1,,26,5.24,188,0
+  TOP ,  III34   ,  II12    ,  II13    ,1,,20,5.23,186,0
+  TOP ,  IV14    ,  III30   ,  III29   ,1,,2,5.21,184,0
+  TOP ,  IV6     ,  III3    ,  III4    ,2,,0,5.21,184,0
+  TOP ,  III60   ,  II22    ,  II23    ,2,,8,5.2,181,0
+  TOP ,  III47   ,  II16    ,  II17    ,1,,14,5.19,180,0
+  TOP ,  III48   ,  II16    ,  II17    ,1,,13,5.19,180,0
+  TOP ,  III45   ,  II16    ,  II17    ,2,,17,5.17,176,0
+  TOP ,  III44   ,  II16    ,  II17    ,1,,18,5.16,175,0
+  TOP ,  III25   ,  II5     ,  II6     ,1,,22,5.15,173,0
+  TOP ,  III51   ,  II16    ,  II17    ,2,,6,5.15,172,0
+  TOP ,  III29   ,  II10    ,  II9     ,2,,20,5.11,166,0
+  TOP ,  II23    ,,,2,,27,5.11,165,0
+  TOP ,  IV5     ,  III3    ,  III4    ,1,,5,5.09,162,0
+  TOP ,  III67   ,  II32    ,  II33    ,1,,2,5.08,160,0
+  TOP ,  II8     ,,,2,,38,5.03,153,0
+  TOP ,  II33    ,,,2,,19,4.97,144,0
+  TOP ,  I1      ,,,2,,62,NA,NA,NA
+  TOP ,  II1     ,  I2      ,  I1      ,2,,38,NA,NA,NA
+  TOP ,  II10    ,,,1,,38,NA,NA,NA
+  TOP ,  II26    ,,,1,,28,NA,NA,NA
+  TOP ,  II5     ,  I2      ,  I1      ,1,,41,NA,NA,NA
+  TOP ,  II7     ,  I2      ,  I1      ,1,,38,NA,NA,NA
+  TOP ,  II9     ,  I2      ,  I1      ,2,,38,NA,NA,NA
+  TOP ,  III14   ,,,1,,21,NA,NA,NA
+  TOP ,  III30   ,,,1,,20,NA,NA,NA
+BOTTOM,  III11   ,  II2     ,  II1     ,2,,22,6.39,595,1
+BOTTOM,  II16    ,  I2      ,  I1      ,1,,38,6.17,479,1
+BOTTOM,  III56   ,  II19    ,  II18    ,2,,4,6.12,454,1
+BOTTOM,  II18    ,  I2      ,  I1      ,2,,36,6.1,448,1
+BOTTOM,  III13   ,  II2     ,  II1     ,2,,21,6.09,440,1
+BOTTOM,  III50   ,  II16    ,  II17    ,2,,10,6.07,433,1
+BOTTOM,  III7    ,  II2     ,  II1     ,1,,26,6.05,425,1
+BOTTOM,  III1    ,  II2     ,  II1     ,1,,31,6.05,422,1
+BOTTOM,  II29    ,  I2      ,  I1      ,1,,27,6.03,416,1
+BOTTOM,  III58   ,  II20    ,  II21    ,1,,6,6.02,413,1
+BOTTOM,  III55   ,  II19    ,  II18    ,1,,10,6.02,412,1
+BOTTOM,  III15   ,  II2     ,  II1     ,1,,20,5.97,391,1
+BOTTOM,  III41   ,  II15    ,  II14    ,2,,15,5.94,381,1
+BOTTOM,  II20    ,  I2      ,  I1      ,1,,35,5.94,379,1
+BOTTOM,  III54   ,  II19    ,  II18    ,2,,13,5.93,377,1
+BOTTOM,  II22    ,  I2      ,  I1      ,1,,32,5.93,376,1
+BOTTOM,  III26   ,  II7     ,  II8     ,1,,20,5.93,376,1
+BOTTOM,  III61   ,  II22    ,  II23    ,2,,6,5.92,374,1
+BOTTOM,  III43   ,  II15    ,  II14    ,2,,10,5.91,369,1
+BOTTOM,  IV10    ,  III12   ,  III11   ,2,,7,5.46,235,1
+BOTTOM,  II12    ,  I2      ,  I1      ,1,,41,5.9,365,1
+BOTTOM,  III17   ,  II2     ,  II1     ,2,,15,5.9,365,1
+BOTTOM,  III46   ,  II16    ,  II17    ,2,,16,5.9,365,1
+BOTTOM,  IV1     ,  III1    ,  III2    ,1,,12,5.83,341,1
+BOTTOM,  III38   ,  II12    ,  II13    ,2,,4,5.82,337,1
+BOTTOM,  III9    ,  II2     ,  II1     ,2,,24,5.8,331,1
+BOTTOM,  III39   ,  II15    ,  II14    ,1,,20,5.78,324,1
+BOTTOM,  III53   ,  II19    ,  II18    ,1,,16,5.77,320,1
+BOTTOM,  III27   ,  II7     ,  II8     ,1,,17,5.76,317,1
+BOTTOM,  II19    ,,,1,,35,5.75,313,1
+BOTTOM,  III49   ,  II16    ,  II17    ,1,,11,5.73,309,1
+BOTTOM,  II14    ,  I2      ,  I1      ,2,,39,5.7,299,1
+BOTTOM,  II2     ,,,1,,51,5.69,296,1
+BOTTOM,  III36   ,  II12    ,  II13    ,1,,16,5.69,295,1
+BOTTOM,  II6     ,,,2,,41,5.66,286,1
+BOTTOM,  III16   ,  II2     ,  II1     ,1,,16,5.64,281,1
+BOTTOM,  III40   ,  II15    ,  II14    ,2,,19,5.63,280,1
+BOTTOM,  III4    ,,,2,,29,5.6,271,1
+BOTTOM,  III59   ,  II20    ,  II21    ,2,,5,5.58,265,1
+BOTTOM,  III35   ,  II12    ,  II13    ,2,,17,5.55,257,1
+BOTTOM,  II4     ,,,2,,36,5.55,256,1
+BOTTOM,  III18   ,  II3     ,  II4     ,2,,12,5.53,252,1
+BOTTOM,  III19   ,  II3     ,  II4     ,2,,11,5.52,250,1
+BOTTOM,  IV11    ,  III14   ,  III13   ,1,,1,5.51,248,1
+BOTTOM,  II24    ,  I2      ,  I1      ,1,,30,5.51,246,1
+BOTTOM,  III68   ,  II32    ,  II33    ,2,,1,5.51,246,1
+BOTTOM,  III2    ,,,2,,30,5.5,245,1
+BOTTOM,  II28    ,,,1,,48,5.5,244,1
+BOTTOM,  III8    ,  II2     ,  II1     ,1,,25,5.49,242,1
+BOTTOM,  III32   ,  II10    ,  II9     ,1,,8,5.48,241,1
+BOTTOM,  II15    ,,,1,,47,5.46,236,1
+BOTTOM,  IV4     ,  III3    ,  III4    ,2,,7,5.46,235,1
+BOTTOM,  III20   ,  II3     ,  II4     ,1,,10,5.46,234,1
+BOTTOM,  II17    ,,,2,,36,5.45,232,1
+BOTTOM,  III42   ,  II15    ,  II14    ,1,,12,5.44,231,1
+BOTTOM,  III3    ,  II2     ,  II1     ,1,,30,5.4,221,0
+BOTTOM,  III31   ,  II10    ,  II9     ,2,,12,5.4,221,0
+BOTTOM,  III5    ,  II2     ,  II1     ,1,,29,5.39,220,0
+BOTTOM,  III63   ,  II24    ,  II25    ,2,,4,5.39,220,0
+BOTTOM,  III62   ,  II24    ,  II25    ,2,,6,5.39,219,0
+BOTTOM,  II25    ,,,2,,26,5.38,216,0
+BOTTOM,  III37   ,  II12    ,  II13    ,1,,15,5.37,214,0
+BOTTOM,  III65   ,  II26    ,  II27    ,2,,5,5.37,214,0
+BOTTOM,  IV2     ,  III1    ,  III2    ,2,,9,5.37,214,0
+BOTTOM,  II21    ,,,2,,28,5.35,210,0
+BOTTOM,  II31    ,  I2      ,  I1      ,1,,24,5.35,210,0
+BOTTOM,  III57   ,  II20    ,  II21    ,1,,8,5.34,208,0
+BOTTOM,  III23   ,  II5     ,  II6     ,2,,25,5.33,206,0
+BOTTOM,  IV3     ,  III1    ,  III2    ,1,,5,5.32,205,0
+BOTTOM,  I2      ,,,1,,87,5.31,203,0
+BOTTOM,  II3     ,  I2      ,  I1      ,1,,47,5.31,203,0
+BOTTOM,  III22   ,  II3     ,  II4     ,1,,6,5.31,202,0
+BOTTOM,  III28   ,  II10    ,  II9     ,2,,22,5.3,200,0
+BOTTOM,  III33   ,  II10    ,  II9     ,2,,6,5.3,200,0
+BOTTOM,  II13    ,,,2,,35,5.29,198,0
+BOTTOM,  II32    ,  I2      ,  I1      ,1,,22,5.28,197,0
+BOTTOM,  III64   ,  II24    ,  II25    ,1,,2,5.27,194,0
+BOTTOM,  II27    ,  I2      ,  I1      ,2,,28,5.26,193,0
+BOTTOM,  IV7     ,  III5    ,  III6    ,1,,8,5.26,192,0
+BOTTOM,  III52   ,  II16    ,  II17    ,1,,1,5.25,191,0
+BOTTOM,  IV8     ,  III5    ,  III6    ,2,,7,5.25,191,0
+BOTTOM,  III12   ,,,1,,23,5.24,189,0
+BOTTOM,  III6    ,,,2,,26,5.24,189,0
+BOTTOM,  II30    ,  I2      ,  I1      ,1,,26,5.24,188,0
+BOTTOM,  III34   ,  II12    ,  II13    ,1,,20,5.23,186,0
+BOTTOM,  IV14    ,  III30   ,  III29   ,1,,2,5.21,184,0
+BOTTOM,  IV6     ,  III3    ,  III4    ,2,,0,5.21,184,0
+BOTTOM,  III60   ,  II22    ,  II23    ,2,,8,5.2,181,0
+BOTTOM,  III47   ,  II16    ,  II17    ,1,,14,5.19,180,0
+BOTTOM,  III48   ,  II16    ,  II17    ,1,,13,5.19,180,0
+BOTTOM,  III45   ,  II16    ,  II17    ,2,,17,5.17,176,0
+BOTTOM,  III44   ,  II16    ,  II17    ,1,,18,5.16,175,0
+BOTTOM,  III25   ,  II5     ,  II6     ,1,,22,5.15,173,0
+BOTTOM,  III51   ,  II16    ,  II17    ,2,,6,5.15,172,0
+BOTTOM,  III29   ,  II10    ,  II9     ,2,,20,5.11,166,0
+BOTTOM,  II23    ,,,2,,27,5.11,165,0
+BOTTOM,  IV5     ,  III3    ,  III4    ,1,,5,5.09,162,0
+BOTTOM,  III67   ,  II32    ,  II33    ,1,,2,5.08,160,0
+BOTTOM,  II8     ,,,2,,38,5.03,153,0
+BOTTOM,  II33    ,,,2,,19,4.97,144,0
+BOTTOM,  I1      ,,,2,,62,NA,NA,NA
+BOTTOM,  II1     ,  I2      ,  I1      ,2,,38,NA,NA,NA
+BOTTOM,  II10    ,,,1,,38,NA,NA,NA
+BOTTOM,  II26    ,,,1,,28,NA,NA,NA
+BOTTOM,  II5     ,  I2      ,  I1      ,1,,41,NA,NA,NA
+BOTTOM,  II7     ,  I2      ,  I1      ,1,,38,NA,NA,NA
+BOTTOM,  II9     ,  I2      ,  I1      ,2,,38,NA,NA,NA
+BOTTOM,  III14   ,,,1,,21,NA,NA,NA
+BOTTOM,  III30   ,,,1,,20,NA,NA,NA

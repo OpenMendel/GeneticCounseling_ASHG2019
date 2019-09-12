@@ -1,0 +1,4 @@
+Locus,Phenotype,Genotypes
+BRCA,Homz_rare,"2/2"
+BRCA,Heterozygous,"1/2"
+BRCA,Homz_common,"1/1"

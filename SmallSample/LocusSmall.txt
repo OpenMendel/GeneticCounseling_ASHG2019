@@ -1,0 +1,3 @@
+Locus,Allele,Chromosome,European
+CF,+,Autosome,0.98
+CF,-,Autosome,0.02
