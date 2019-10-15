@@ -1,4 +1,9 @@
 [deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 MendelBase = "4fb2d825-8540-5432-a3a3-b9ff66df2cb5"
 MendelGeneticCounseling = "5eee5fa4-c0d8-5591-aecf-5d586585de4b"
 MendelSearch = "4fa469e6-9890-5c68-874e-584f43f9cdde"
