@@ -1,0 +1,16 @@
+#
+# Input and Output files.
+#
+locus_file = LocusChol.txt
+pedigree_file = PedCholHZM.csv
+phenotype_file = PhenoChol.txt
+output_file = CholHomozygous_MutantRisk.txt
+#
+#  Analysis parameters for Genetic Counseling option.
+#
+glm_mean = 4.691+0.562(max(allele1,allele2))+0.00194Age+0.036Sex
+glm_response = GammaDist
+glm_link = LogLink
+glm_trait = Chol
+glm_scale = 44.68
+glm_trials = 1

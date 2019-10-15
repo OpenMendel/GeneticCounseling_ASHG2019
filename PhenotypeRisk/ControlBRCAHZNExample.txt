@@ -1,0 +1,10 @@
+#
+# Input and Output files.
+#
+locus_file = LocusBRCAExample.txt  
+pedigree_file = PedBRCAHZNExample.csv
+phenotype_file = PhenoBRCAExample.txt
+penetrance_file = PenBRCAExample.csv
+output_file = BRCAExampleHZNOut.txt
+#
+disease_status = Cancer

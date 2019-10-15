@@ -1,0 +1,3 @@
+Locus,Allele,Chromosome,European
+BRCA,"1",Autosome,0.998
+BRCA,"2",Autosome,0.002
